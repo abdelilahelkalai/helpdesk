@@ -1,0 +1,8 @@
+{
+  "name": "helpdesk",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "frontend"
+  ]
+}

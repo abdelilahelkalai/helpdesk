@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+logs/
+
+# Bun
+.bun/
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Misc
+coverage/
+*.tsbuildinfo
+
+# Claude
+.claude/
+CLAUDE.md
+
+# Markdown files
+*.md
